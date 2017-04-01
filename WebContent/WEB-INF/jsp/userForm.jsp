@@ -17,7 +17,7 @@
 		</tr>
 		<tr>
 			<td>Student Password :</td>
-			<td><form:password path="password" /></td>
+			<td><form:password path="Password" /></td>
 		</tr>
 		<tr>
 			<td>Gender :</td>
@@ -31,7 +31,6 @@
 				<form:option value="1" label="India" />
 				<form:option value="2" label="USA" />
 				<form:option value="3" label="UK" />
-				<form:option value="4" label="HYD" />	
 			</form:select></td>
 		</tr>
 		<tr>
